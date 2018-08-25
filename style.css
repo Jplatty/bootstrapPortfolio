@@ -1,0 +1,29 @@
+.container{
+    background-color:rgb(9, 113, 148);
+    color: rgb(228, 112, 34);
+}
+#head1{
+    background-color:rgb(9, 113, 148);
+    color:rgb(228, 112, 34);
+    height: 95px;
+    padding: 5px;
+    font-size: 5w;
+}
+#pic{
+    height: 10px
+}
+#head{
+    text-align: center;
+    padding: 20px;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.row{   
+    border: solid rgb(228, 112, 34) 2px;
+}
+.ballout{
+    height: 10px;
+}
+.you{
+    border-left-color: rgb(228, 112, 34);
+}
