@@ -1,29 +1,30 @@
-.container{
-    background-color:rgb(9, 113, 148);
-    color: rgb(228, 112, 34);
+.body{
+   
+    background-color: coral;
 }
-#head1{
-    background-color:rgb(9, 113, 148);
-    color:rgb(228, 112, 34);
-    height: 95px;
-    padding: 5px;
-    font-size: 5w;
+.container-fluid{
+margin: 0 auto;
+
+    color: navy;
 }
-#pic{
-    height: 10px
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
 }
-#head{
-    text-align: center;
-    padding: 20px;
-    font-size: 32px;
-    font-family: Arial, Helvetica, sans-serif
+.jumbotron{
+    background-image: url(li.jpeg);
+    background-size: cover;
+    height: 100vh;
+    color: coral;
+    padding: 30%;
+    margin: 11px;
+
 }
-.row{   
-    border: solid rgb(228, 112, 34) 2px;
-}
-.ballout{
-    height: 10px;
-}
-.you{
-    border-left-color: rgb(228, 112, 34);
+footer  {
+    background-color: rgb(36, 36, 207);
+    padding: 25px;
+    color: coral;
+  }
+#jp{
+    font-size: 78px;
 }
